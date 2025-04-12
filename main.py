@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI # skzbum fastapi
 
 import psycopg2
 from psycopg2.extras import RealDictCursor
